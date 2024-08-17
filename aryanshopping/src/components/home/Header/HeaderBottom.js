@@ -60,23 +60,23 @@ const HeaderBottom = () => {
               >
                 <Link to={"category/Fastrack"}>
                   <li className="text-gray-400 px-4 py-1 border-b-[1px] border-b-gray-400 hover:border-b-white hover:text-white duration-300 cursor-pointer">
-                    Imprimante
+                    Octane Analogue
                   </li>
                 </Link>
 
                 <Link to={"category/Noise"}>
                   <li className="text-gray-400 px-4 py-1 border-b-[1px] border-b-gray-400 hover:border-b-white hover:text-white duration-300 cursor-pointer">
-                    ancre
+                    Unisex Classic Smart
                   </li>
                 </Link>
                 <Link to={"category/Firebolt"}>
                   <li className="text-gray-400 px-4 py-1 border-b-[1px] border-b-gray-400 hover:border-b-white hover:text-white duration-300 cursor-pointer">
-                    ruban
+                    Garrett Hr Smartwatch
                   </li>
                 </Link>
                 <Link to={"category/Boat"}>
                   <li className="text-gray-400 px-4 py-1 border-b-[1px] border-b-gray-400 hover:border-b-white hover:text-white duration-300 cursor-pointer">
-                    Bac de dechet
+                    Constellation Co-Axial
                   </li>
                 </Link>
               </motion.ul>
